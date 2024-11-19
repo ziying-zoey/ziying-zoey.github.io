@@ -14,6 +14,5 @@ I am very fortunate to be advised by [Prof.Changsheng You](https://sites.google.
 My research interest includes AI for computer vision, economics, and communications
 
 You can find my CV here: [my CV](../assets/CV_HuangZiying.pdf).
-————————————————
 
 
