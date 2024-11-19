@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a third year undergraduate student from [School of EEE](https://eee.sustech.edu.cn//), [Southern University of Science and Technology University](https://www.sustech.edu.cn/). My research interest includes AI for computer vision, economics, and communications
+
+I am very fortunate to be advised by [Prof.Changsheng You](https://sites.google.com/view/changshengy/homepage) of wireless communication Lab from [Department of Electrical and Electronic Engineering](https://eee.sustech.edu.cn/), Southern University of Science and Technology University. 
+
+You can find my CV here: [Ziying (zoey) Huang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:12212453@mail.sustech.edu.cn) / [Github](https://github.com/ziying-zoey) / [Linkedin](https://www.linkedin.com/in/zoey-ziying/) 
+————————————————
+
 
 A data-driven personal website
 ======
