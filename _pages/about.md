@@ -1,19 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Basic Information"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EEE](https://eee.sustech.edu.cn//), [Southern University of Science and Technology University](https://www.sustech.edu.cn/). My research interest includes AI for computer vision, economics, and communications
+I'm a third year undergraduate student from [Department of EEE](https://eee.sustech.edu.cn//), [Southern University of Science and Technology University](https://www.sustech.edu.cn/). 
 
-I am very fortunate to be advised by [Prof.Changsheng You](https://sites.google.com/view/changshengy/homepage) of wireless communication Lab from [Department of Electrical and Electronic Engineering](https://eee.sustech.edu.cn/), Southern University of Science and Technology University. 
+I am very fortunate to be advised by [Prof.Changsheng You](https://sites.google.com/view/changshengy/homepage) of wireless communication Lab from [Department of Electrical and Electronic Engineering](https://eee.sustech.edu.cn/), Southern University of Science and Technology University (SUSTech). 
 
-You can find my CV here: [Ziying (zoey) Huang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:12212453@mail.sustech.edu.cn) / [Github](https://github.com/ziying-zoey) / [Linkedin](https://www.linkedin.com/in/zoey-ziying/) 
+My research interest includes AI for computer vision, economics, and communications
 ————————————————
 
 
