@@ -15,4 +15,5 @@ My research interest includes AI for computer vision, economics, and communicati
 
 You can find my CV here: [my CV](../assets/CV_HuangZiying.pdf).
 
+You can also access my official transcript here: [my transcript](../assets/transcript.pdf).
 
