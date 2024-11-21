@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Department of EEE](https://eee.sustech.edu.cn/), [Southern University of Science and Technology University](https://www.sustech.edu.cn/). 
+I'm a third year undergraduate student from [Department of EEE](https://eee.sustech.edu.cn/), and a minor in Finance at [Business School](https://business.sustech.edu.cn/), [Southern University of Science and Technology University](https://www.sustech.edu.cn/). 
 
 I am very fortunate to be advised by [Prof.Changsheng You](https://sites.google.com/view/changshengy/homepage) of wireless communication Lab from [Department of Electrical and Electronic Engineering](https://eee.sustech.edu.cn/), Southern University of Science and Technology University (SUSTech). 
 
