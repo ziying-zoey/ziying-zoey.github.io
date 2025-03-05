@@ -16,6 +16,8 @@ My research interest includes federated learning, model editing for LLM, and AI 
 You can find my CV here: [my CV](../assets/CV_HuangZiying.pdf).
 
 You can also access my official transcript here: [my transcript](../assets/transcript.pdf).
-- [my rank](../assets/comprehensive_ranking.xlsx).
 
+---
+[my rank](../assets/comprehensive_ranking.xlsx).
+---
 
