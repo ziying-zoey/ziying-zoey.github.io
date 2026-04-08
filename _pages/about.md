@@ -21,17 +21,21 @@ redirect_from:
   <p>
     My research interests include federated learning, lifelong model editing, trustworthy large language models, and medical AI.
   </p>
-  <p>
-    <a class="btn" href="/files/CV.pdf">Download CV</a>
-    <a class="btn" href="/publications/">View Publications</a>
-  </p>
+  <div class="hero-links">
+  <a class="fancy-btn fancy-btn-light" href="/files/CV.pdf">
+    📄 Resume
+  </a>
+  <a class="fancy-btn fancy-btn-dark" href="/publications/">
+    📚 Publications
+  </a>
+</div>
 </div>
 
 ## News
-- Apr 2026: Our paper *The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models* was accepted as an ACL 2026 Findings paper.
-- Mar 2026: Our paper *UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models* is accepted as a TMLR paper.
-- Nov 2025: Selected as G-Star Global Talent Program 2025 Top 15 Individual.
-- Feb 2025: Our ASC Student Supercomputer Challenge team won the International Second Prize as part of Team ASC900.
+	•	Apr 2026: Our paper The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models was accepted as an ACL 2026 Findings paper. 🎉🎉
+	•	Mar 2026: Our paper UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models was accepted as a TMLR paper. 🚀🚀
+	•	Nov 2025: Selected as G-Star Global Talent Program 2025 Top 15 Individual. 🌟🌟
+	•	Feb 2025: Our ASC Student Supercomputer Challenge team won the International Second Prize as part of Team ASC900. 🏆🏆
 
 ## Selected Publications
 - **The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models**  
@@ -43,9 +47,9 @@ redirect_from:
   TMLR. [Paper](https://arxiv.org/pdf/2505.14679)
 
 ## Award
-- G-Star Top 15 Individual
+- G-Star TGlobal Talent Program op 15 Individual
 - ASC Student Supercomputer Challenge International Second Prize
-- More awards and certificates can be found on the [Awards page](/awards/).
+- Outstanding Student Scholarship, SUSTech – First Prize (¥5,000; top 5%) 2024 & 2025 
 
 ## Visitors
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2L3_4H50djrUl8gNVgZWpqzgCUgDsCXBDJmDtSVYZwo&cl=ffffff&w=a"></script>
