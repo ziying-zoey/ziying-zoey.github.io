@@ -6,15 +6,43 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div class="hero-section">
+  <h1>Ziying Huang</h1>
+  <p class="hero-subtitle">Undergraduate Researcher in Trustworthy AI, Medical AI, and Model Editing</p>
+  <p>
+    I am a 4th-year undergraduate student in [the Department of Electrical and Electronic Engineering](https://eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech), I am currently working as a remote research assistant under the supervision of [Prof. Liangqiong Qu](https://liangqiong.github.io/), an Assistant Professor in the School of Computing and Data Science at [The University of Hong Kong](https://www.hku.hk/) (HKU), where she leads the HKU-HealthAI Lab.
 
-I'm a third year undergraduate student from [Department of EEE](https://eee.sustech.edu.cn/), and a minor in Finance at [Business School](https://business.sustech.edu.cn/), [Southern University of Science and Technology University](https://www.sustech.edu.cn/). 
+  </p>
+  <p>
+    My research interests include federated learning, lifelong model editing, trustworthy large language models, and medical AI.
+  </p>
+  <p>
+    <a class="btn" href="/files/CV.pdf">Download CV</a>
+    <a class="btn" href="/publications/">View Publications</a>
+  </p>
+</div>
 
-I am very fortunate to be advised by [Prof.Changsheng You](https://sites.google.com/view/changshengy/homepage) of wireless communication Lab from [Department of Electrical and Electronic Engineering](https://eee.sustech.edu.cn/), Southern University of Science and Technology University (SUSTech). 
+## News
+- Apr 2026: Our paper *The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models* was accepted as an ACL 2026 Findings paper.
+- Mar 2026: Our paper *UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models* is accepted as a TMLR paper.
+- Nov 2025: Selected as G-Star Global Talent Program 2025 Top 15 Individual.
+- Feb 2025: Our ASC Student Supercomputer Challenge team won the International Second Prize as part of Team ASC900.
 
-My research interest includes federated learning, model editing for LLM, and AI for economics. I aspire to pursue a Ph.D. to deepen my expertise in these fields.
+## Selected Publications
+- **The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models**  
+  Xiaojie Gu*, **Ziying Huang***, Weicong Hong, Jian Xie, Renze Lou, Kai Zhang.  
+  Findings of ACL 2026. [OpenReview](https://openreview.net/forum?id=mxFX16IHal)
 
-You can find my CV here: [my CV](../assets/CV_HuangZiying.pdf).
+- **UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models**  
+  Xiaojie Gu, **Ziying Huang**, J.-C. Gu, Kai Zhang.  
+  TMLR. [Paper](https://arxiv.org/pdf/2505.14679)
 
-You can also access my official transcript here: [my transcript](../assets/transcript.pdf).
+## Award
+- G-Star Top 15 Individual
+- ASC Student Supercomputer Challenge International Second Prize
+- More awards and certificates can be found on the [Awards page](/awards/).
+
+## Visitors
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2L3_4H50djrUl8gNVgZWpqzgCUgDsCXBDJmDtSVYZwo&cl=ffffff&w=a"></script>
 
 
