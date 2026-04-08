@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ziying Huang / SUSTech"
+title                    : "Ziying Huang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,17 +24,17 @@ author:
   avatar           : "profile_picture.png"
   name             : "Ziying Huang"
   pronouns         : # example: "she/her"  
-  bio              : "BS in ECE | Minor in Finance"
+  bio              : "B.S. in EEE
   location         : "Shenzhen Guangdong China"
   employer         : "SUSTech"
   uri              : #"../assets/CV_HuangZiying.pdf"
-  email            : "12212453@mail.sustech.edu.cn" 
+  email            : "huangzy22@mail.sustech.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-1783-1030"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
