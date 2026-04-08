@@ -1,7 +1,7 @@
 ---
 title: "The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models"
-collection: conferences
-permalink: /publication/surface-compliance
+collection: publications 
+permalink: conferences
 date: 2026-04-01
 venue: "Findings of ACL 2026"
 paperurl: "https://openreview.net/forum?id=mxFX16IHal"
