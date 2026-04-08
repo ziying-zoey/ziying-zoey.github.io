@@ -1,36 +1,26 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="pub-card">
+  <img src="/images/surface-compliance.png" class="pub-thumb">
+  <div class="pub-text">
+    <h3><a href="/publication/surface-compliance">The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models</a></h3>
+    <p>Gu, X.*, <b>Huang, Z.*</b>, Hong, W., Xie, J., Lou, R., & Zhang, K.</p>
+    <p><i>Findings of ACL 2026</i></p>
+    <p>A diagnostic framework for revealing surface compliance in knowledge editing.</p>
+  </div>
+</div>
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<div class="pub-card">
+  <img src="/images/ultraedit.png" class="pub-thumb">
+  <div class="pub-text">
+    <h3><a href="/publication/ultraedit">UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models</a></h3>
+    <p>Gu, X.*, <b>Huang, Z.</b>, Gu, J.-C., & Zhang, K.</p>
+    <p><i>Transactions on Machine Learning Research (TMLR)</i></p>
+    <p>A lifelong model editing framework without training, subject-specific memory, or extra memory storage.</p>
+  </div>
+</div>
