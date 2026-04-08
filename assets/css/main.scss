@@ -255,12 +255,6 @@
   }
 }
 
-.author__avatar {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 1rem;
-}
-
 .author__avatar img {
   width: 230px !important;
   height: 230px !important;
@@ -269,4 +263,23 @@
   border-radius: 50% !important;
   border: 4px solid #ffffff;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 220px;
+  height: 220px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto 1rem auto;
+
+  img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 50%;
+    display: block;
+  }
 }
