@@ -10,7 +10,14 @@ redirect_from:
   <h1>Ziying Huang</h1>
   <p class="hero-subtitle">Undergraduate Researcher in Trustworthy AI, Medical AI, and Model Editing</p>
   <p>
-    I am a 4th-year undergraduate student in [the Department of Electrical and Electronic Engineering](https://eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech), I am currently working as a remote research assistant under the supervision of [Prof. Liangqiong Qu](https://liangqiong.github.io/), an Assistant Professor in the School of Computing and Data Science at [The University of Hong Kong](https://www.hku.hk/) (HKU), where she leads the HKU-HealthAI Lab.
+    I am a 4th-year undergraduate student in the
+    <a href="https://eee.sustech.edu.cn/" target="_blank">Department of Electrical and Electronic Engineering</a>
+    at Southern University of Science and Technology (SUSTech).
+    I am currently working as a remote research assistant under the supervision of
+    <a href="https://liangqiong.github.io/" target="_blank">Prof. Liangqiong Qu</a>,
+    an Assistant Professor in the School of Computing and Data Science at
+    <a href="https://www.hku.hk/" target="_blank">The University of Hong Kong</a> (HKU),
+    where she leads the HKU-HealthAI Lab.
 
   </p>
   <p>
