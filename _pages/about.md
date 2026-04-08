@@ -28,8 +28,8 @@ redirect_from:
 
 - Apr 2026: Our paper *The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models* was accepted as an ACL 2026 Findings paper. 🎉🎉
 - Mar 2026: Our paper *UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models* was accepted as a TMLR paper. 🚀🚀
-- Nov 2025: Selected as G-Star Global Talent Program 2025 Top 15 Individual. 🌟🌟
-- Feb 2025: Our ASC Student Supercomputer Challenge team won the International Second Prize as part of Team ASC900. 🏆🏆
+- Nov 2025: Selected as one of the Top 15 Individuals in the G-Star Global Talent Program 2025 by the [New Turing Institute](https://newturing.ai/). 🌟🌟
+- Feb 2025: Our [ASC Student Supercomputer Challenge](https://asc-events.net/StudentChallenge/History/2025/index.html) team won the International Second Prize as part of Team ASC900. 🏆🏆
 
 ## Selected Publications
 - **The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models**  
@@ -41,7 +41,7 @@ redirect_from:
   TMLR. [Paper](https://arxiv.org/pdf/2505.14679)
 
 ## Award
-- G-Star TGlobal Talent Program op 15 Individual
+- G-Star Global Talent Program Top 15 Individual 
 - ASC Student Supercomputer Challenge International Second Prize
 - Outstanding Student Scholarship, SUSTech – First Prize (¥5,000; top 5%) 2024 & 2025 
 
