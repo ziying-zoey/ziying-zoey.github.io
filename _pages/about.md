@@ -33,7 +33,7 @@ redirect_from:
 
 ## Selected Publications
 - **The Model Agreed, But Didn’t Learn: Diagnosing Surface Compliance in Large Language Models**  
-  Xiaojie Gu*, **Ziying Huang***, Weicong Hong, Jian Xie, Renze Lou, Kai Zhang.  
+  Xiaojie Gu\*, **Ziying Huang**\*, Weicong Hong, Jian Xie, Renze Lou, Kai Zhang.  
   Findings of ACL 2026. [OpenReview](https://openreview.net/forum?id=mxFX16IHal)
 
 - **UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models**  
