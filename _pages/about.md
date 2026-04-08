@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 <div class="hero-section">
-  <h1>Ziying Huang</h1>
   <p class="hero-subtitle">Undergraduate Researcher in Trustworthy AI, Medical AI, and Model Editing</p>
   <p>
     I am a 4th-year undergraduate student in the
