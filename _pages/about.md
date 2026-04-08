@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 <div class="hero-section">
-  <p class="hero-subtitle">Undergraduate Researcher in Trustworthy AI, Medical AI, and Model Editing</p>
   <p>
     I am a 4th-year undergraduate student in the
     <a href="https://eee.sustech.edu.cn/" target="_blank">Department of Electrical and Electronic Engineering</a>
