@@ -8,9 +8,9 @@ redirect_from:
 ---
 <div class="hero-section">
   <p>
-    I am a 4th-year undergraduate student in the
+    I am a 4th-year undergraduate student majoring in Communication Engineering at the
     <a href="https://eee.sustech.edu.cn/" target="_blank">Department of Electrical and Electronic Engineering</a>
-    at Southern University of Science and Technology (SUSTech).
+    of Southern University of Science and Technology (SUSTech).
     I am currently working as a remote research assistant under the supervision of
     <a href="https://liangqiong.github.io/" target="_blank">Prof. Liangqiong Qu</a>,
     an Assistant Professor in the School of Computing and Data Science at
