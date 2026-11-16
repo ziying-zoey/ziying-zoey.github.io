@@ -8,14 +8,8 @@ redirect_from:
 ---
 <div class="hero-section">
   <p>
-    I am a 4th-year undergraduate student majoring in Communication Engineering at the
-    <a href="https://eee.sustech.edu.cn/" target="_blank">Department of Electrical and Electronic Engineering</a>
-    of Southern University of Science and Technology (SUSTech).
-    I am currently working as a remote research assistant under the supervision of
-    <a href="https://liangqiong.github.io/" target="_blank">Prof. Liangqiong Qu</a>,
-    an Assistant Professor in the School of Computing and Data Science at
-    <a href="https://www.hku.hk/" target="_blank">The University of Hong Kong</a> (HKU),
-    where she leads the HKU-HealthAI Lab.
+    I graduated from Southern University of Science and Technology (SUSTech) with a bachelor’s degree in Communication Engineering.
+    I will soon begin my PhD at the University of Melbourne.
 
   </p>
   <div class="hero-links">
